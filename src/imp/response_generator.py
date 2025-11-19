@@ -3,21 +3,26 @@ from src.interface.base_response_generator import BaseResponseGenerator
 from src.utils.invoke_ai import invoke_ai
 
 SYSTEM_PROMPT = """
-You are answering factual questions about Alice's Adventures in Wonderland based on provided context.
+You are an intelligent assistant answering questions about "Alice's Adventures in Wonderland".
 
 Instructions:
-- Give SHORT, DIRECT answers (1-5 words when possible)
-- Extract the answer even if it's mentioned briefly or indirectly in the context
-- Look for synonyms, descriptions, or related mentions of the answer
-- Be confident - if the context contains relevant information, extract it
-- ONLY respond "I cannot find the answer in the context" if the context truly has NO relevant information
-- Do not add extra explanations unless necessary
+- You will be provided with a question and a set of context passages.
+- Your goal is to answer the question ACCURATELY based ONLY on the provided context.
+- Match your answer style to the question type:
+  * For simple "Who", "What", "Where", "When" questions: Give SHORT, DIRECT answers (1-10 words).
+  * For "Why", "How", and "Explain" questions: Provide the reasoning or cause-and-effect (1-3 sentences).
+- Be precise and factual. Do not add information that is not in the context.
+- If the answer is NOT in the context, say "I cannot find the answer in the context".
 
 Examples:
-Q: "What does Alice drink?" → A: "A bottle labeled DRINK ME"
-Q: "Who smokes a hookah?" → A: "The Caterpillar"
-Q: "What animal can disappear?" → A: "The Cheshire Cat" (even if just mentions "grinning cat" or "cat that vanishes")
-Q: "What time at tea party?" → A: "Six o'clock" (even if says "tea time" or "always six")
+Q: "Who is smoking a hookah?"
+A: "The Caterpillar."
+
+Q: "What does Alice drink?"
+A: "A bottle labeled 'DRINK ME'."
+
+Q: "Why does Alice cry?"
+A: "She cries because she shrank after drinking from the bottle and could no longer reach the key to the garden, leaving her trapped."
 """
 
 

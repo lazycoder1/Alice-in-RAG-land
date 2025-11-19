@@ -4,8 +4,8 @@
         "answer": "Because she becomes very small and cannot reach the key to open the door to the beautiful garden."
     },
     {
-        "question": "What realization does Alice have about her identity while talking to the Caterpillar?",
-        "answer": "She realizes she has changed so much in size and attitude that she is no longer sure who she is."
+        "question": "What does the Caterpillar tell Alice to do to change her size?",
+        "answer": "He tells her to eat from one side of the mushroom to grow taller and the other side to grow shorter."
     },
     {
         "question": "How does Alice manage to enter the garden at last?",
@@ -14,10 +14,6 @@
     {
         "question": "Why is the Mouse offended by Alice when they first meet?",
         "answer": "Because Alice talks about her cat, Dinah, which frightens the Mouse."
-    },
-    {
-        "question": "What is the significance of the pool of tears?",
-        "answer": "It symbolizes Alice’s frustration and confusion after shrinking and crying; later, it becomes a setting where she meets other animals."
     },
     {
         "question": "How do the animals dry themselves after swimming in the pool of tears?",
@@ -32,40 +28,28 @@
         "answer": "She eats some cakes that make her shrink again and slips out of the house."
     },
     {
-        "question": "Why does the Duchess say 'Everything’s got a moral, if only you can find it'?",
-        "answer": "Because she believes every event in life can be interpreted to teach a lesson, no matter how absurd."
+        "question": "Why is there so much pepper in the Duchess's kitchen?",
+        "answer": "The cook is using too much of it in the soup, making everyone sneeze."
     },
     {
-        "question": "What role does the Cheshire Cat play in Alice’s understanding of Wonderland?",
-        "answer": "The Cat acts as a guide, helping Alice realize that logic and reason do not apply in Wonderland."
+        "question": "What part of the Cheshire Cat remains visible last?",
+        "answer": "Its grin remains visible after the rest of its body has disappeared."
     },
     {
         "question": "Why does the Mad Hatter say time has been 'stuck at six o’clock'?",
         "answer": "He says Time punished him during a quarrel with the Queen of Hearts, so it is always tea time for them."
     },
     {
-        "question": "How does Alice’s behavior change from the beginning to the end of the story?",
-        "answer": "She becomes more confident and assertive, learning to challenge nonsense rather than being confused by it."
+        "question": "Why does Alice kick Bill the Lizard out of the chimney?",
+        "answer": "Because he comes down the chimney while she is stuck inside the White Rabbit's house, and she kicks him out to stop him."
     },
     {
-        "question": "What theme is illustrated by the repeated changes in Alice’s size?",
-        "answer": "It represents the confusion and uncertainty of growing up and finding one’s identity."
+        "question": "What does the Queen of Hearts shout whenever she is angry?",
+        "answer": "She shouts 'Off with his head!' or 'Off with her head!'"
     },
     {
-        "question": "How does the Queen of Hearts maintain control over her subjects?",
-        "answer": "Through fear and constant threats of execution, even though her orders are rarely carried out."
-    },
-    {
-        "question": "Why does Alice call the Queen’s court 'nothing but a pack of cards'?",
-        "answer": "Because she realizes that the trial and the Queen’s authority are absurd and meaningless."
-    },
-    {
-        "question": "What does the Mock Turtle’s story about his schooling reveal about Wonderland?",
-        "answer": "It parodies real-world education with nonsensical subjects, showing Wonderland’s mockery of logic and order."
-    },
-    {
-        "question": "How does humor function in the conversation between the Mad Hatter and Alice?",
-        "answer": "It highlights the absurdity of Wonderland by twisting logic and language into riddles that have no real answers."
+        "question": "What happens to the cards when Alice says they are 'nothing but a pack of cards'?",
+        "answer": "They all rise up into the air and come flying down upon her."
     },
     {
         "question": "Why does the Dormouse keep falling asleep during the tea party?",
@@ -73,50 +57,66 @@
     },
     {
         "question": "What causes the quarrel between the Queen and the Duchess during the croquet game?",
-        "answer": "They argue over the Duchess’s lateness and the Queen’s temper, illustrating the chaos of Wonderland’s hierarchy."
-    },
-    {
-        "question": "What is ironic about the trial of the Knave of Hearts?",
-        "answer": "The verdict seems predetermined, and the evidence presented is meaningless, mocking the idea of justice."
+        "answer": "The Queen is angry because the Duchess is late."
     },
     {
         "question": "Why does the Gryphon take Alice to meet the Mock Turtle?",
-        "answer": "Because the Queen orders it, showing how Alice is constantly moved from one nonsensical encounter to another."
-    },
-    {
-        "question": "What moral does the Caterpillar indirectly teach Alice?",
-        "answer": "To control her emotions and learn to adapt to constant changes, rather than panic about them."
-    },
-    {
-        "question": "What does Alice mean when she says 'It’s no use going back to yesterday'?",
-        "answer": "She acknowledges that she has changed and grown from her experiences and cannot return to who she was before."
+        "answer": "Because the Queen orders it, so the Mock Turtle can tell Alice his history."
     },
     {
         "question": "Why does Alice find the Queen’s croquet game so difficult to play?",
         "answer": "Because the equipment — flamingos and hedgehogs — keeps moving, making the game impossible to control."
     },
     {
-        "question": "How does Lewis Carroll use logic puzzles to create humor in Wonderland?",
-        "answer": "He subverts normal reasoning and wordplay to expose the absurdity in everyday logic."
-    },
-    {
         "question": "How does Alice react when the Queen orders her execution at the end?",
         "answer": "She stands up to the Queen fearlessly and refuses to be intimidated."
     },
     {
-        "question": "What effect does waking up from the dream have on Alice?",
-        "answer": "It brings her relief and understanding that Wonderland’s chaos was only a dream, though it leaves her thoughtful."
+        "question": "Why does the Pigeon attack Alice in the wood?",
+        "answer": "The Pigeon mistakes Alice for a serpent because of her long neck and suspects she wants to eat its eggs."
     },
     {
-        "question": "How does the repetition of tea time at the Mad Hatter’s party serve as a metaphor?",
-        "answer": "It symbolizes being stuck in meaningless routines and the distortion of time in Wonderland."
+        "question": "Why does the Frog-Footman stare at the sky when Alice asks him how to get into the house?",
+        "answer": "He is being deliberately unhelpful and philosophical, claiming that since he is outside, he cannot help her get inside."
     },
     {
-        "question": "What contrast does Carroll create between Alice’s logic and Wonderland’s nonsense?",
-        "answer": "Alice represents rational thought, while Wonderland constantly undermines logic, showing the tension between order and absurdity."
+        "question": "What happens to the Duchess’s baby when Alice takes it outside?",
+        "answer": "It grunts and transforms into a pig, which Alice then releases into the woods."
     },
     {
-        "question": "What lesson might Carroll be suggesting about authority through the Queen of Hearts?",
-        "answer": "That authority based on fear and irrationality is fragile and easily defied once questioned."
+        "question": "Why does the Hatter’s watch tell the day of the month instead of the hour?",
+        "answer": "Because Time is stuck at six o'clock (tea time), so the hour never changes, but the days still pass."
+    },
+    {
+        "question": "Why are the gardeners painting the white roses red?",
+        "answer": "They planted white roses by mistake, and the Queen ordered red ones, so they are painting them to avoid being beheaded."
+    },
+    {
+        "question": "How does the King of Hearts try to save the executioner from the Queen's anger regarding the Cheshire Cat?",
+        "answer": "He argues that anything with a head can be beheaded, while the executioner argues you cannot behead something without a body."
+    },
+    {
+        "question": "Why does the Mock Turtle say he went to school in the sea?",
+        "answer": "Because he was a real turtle once, and that is where turtles live and learn."
+    },
+    {
+        "question": "What evidence does the White Rabbit produce during the trial?",
+        "answer": "A poem (verses) that he claims was written by the prisoner, the Knave of Hearts."
+    },
+    {
+        "question": "Why does Alice offend the birds during the Caucus-race meeting?",
+        "answer": "She mentions her cat Dinah and how good she is at catching birds, which frightens them away."
+    },
+    {
+        "question": "Why does the Lory refuse to listen to Alice?",
+        "answer": "The Lory claims to be older than Alice and therefore insists that it knows better."
+    },
+    {
+        "question": "How does the King of Hearts quietly save the people sentenced to death?",
+        "answer": "He pardons them when the Queen is not looking."
+    },
+    {
+        "question": "Why does Alice knock over the jury box?",
+        "answer": "She has grown too large and accidentally tips it over with her skirt when she stands up."
     }
 ]

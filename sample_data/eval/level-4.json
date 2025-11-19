@@ -1,5 +1,21 @@
 [
     {
+        "question": "How does Alice’s attitude toward Wonderland’s absurdity evolve from her first encounter with the White Rabbit to her confrontation with the Queen of Hearts?",
+        "answer": "At first Alice is curious and bewildered, trying to make sense of Wonderland’s illogical events; by the time she meets the Queen, she becomes assertive and dismissive of the nonsense around her, realizing she can challenge it."
+    },
+    {
+        "question": "How do Alice’s frequent size changes mirror her emotional development throughout the story?",
+        "answer": "Her physical growth and shrinkage parallel her internal struggle for control and maturity, representing the instability of childhood and the desire for self-understanding."
+    },
+    {
+        "question": "How does Alice’s interaction with the Caterpillar differ from her interaction with the Queen of Hearts, and what does that reveal about her character growth?",
+        "answer": "The Caterpillar’s ambiguity frustrates her early on, but by the time she faces the Queen, Alice has learned patience and confidence, showing her emotional maturity."
+    },
+    {
+        "question": "How does Alice’s conversation with the Cheshire Cat help her navigate the irrationality of Wonderland?",
+        "answer": "The Cat provides philosophical guidance, suggesting that direction doesn’t matter in a world without logic, helping Alice recognize that meaning depends on choice."
+    },
+    {
         "question": "How do Alice’s interactions with authority figures like the Queen of Hearts, the King, and the Duchess reflect Carroll’s critique of Victorian social hierarchies?",
         "answer": "Each authority figure caricatures a different facet of power—tyranny, complacency, and moral hypocrisy—illustrating how Victorian authority often relied on absurdity and blind obedience."
     },
@@ -102,21 +118,5 @@
     {
         "question": "What does the disappearance of the Cheshire Cat symbolize in relation to knowledge and uncertainty?",
         "answer": "Its grin remaining after disappearance represents the persistence of doubt—the idea that knowledge can vanish, leaving only its trace."
-    },
-    {
-        "question": "How does Carroll’s structural use of repetition influence the story’s rhythm and thematic unity?",
-        "answer": "Repetition creates a sense of looping absurdity, reinforcing Wonderland’s cyclical logic where events reflect each other in distorted symmetry."
-    },
-    {
-        "question": "How do dreams and waking reality function as mirrors of one another in Alice’s transformation?",
-        "answer": "Dream and reality become reflections—her dream teaches emotional lessons that rational life cannot, blurring boundaries between subconscious and conscious learning."
-    },
-    {
-        "question": "Analyze how humor operates as social critique within Wonderland’s chaos.",
-        "answer": "Humor exposes hypocrisy and pretension, using laughter as a weapon against rigid power and moralism."
-    },
-    {
-        "question": "How can Alice’s final rejection of Wonderland be read as an act of reclaiming epistemic agency?",
-        "answer": "By declaring the world ‘a pack of cards,’ she asserts the power to define reality for herself, reclaiming control over meaning and perception."
     }
 ]

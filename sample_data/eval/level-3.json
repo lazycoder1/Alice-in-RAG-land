@@ -1,15 +1,55 @@
 [
     {
-        "question": "How does Alice’s attitude toward Wonderland’s absurdity evolve from her first encounter with the White Rabbit to her confrontation with the Queen of Hearts?",
-        "answer": "At first Alice is curious and bewildered, trying to make sense of Wonderland’s illogical events; by the time she meets the Queen, she becomes assertive and dismissive of the nonsense around her, realizing she can challenge it."
+        "question": "What is the significance of the pool of tears?",
+        "answer": "It symbolizes Alice’s frustration and confusion after shrinking and crying; later, it becomes a setting where she meets other animals."
+    },
+    {
+        "question": "What theme is illustrated by the repeated changes in Alice’s size?",
+        "answer": "It represents the confusion and uncertainty of growing up and finding one’s identity."
+    },
+    {
+        "question": "What does the Mock Turtle’s story about his schooling reveal about Wonderland?",
+        "answer": "It parodies real-world education with nonsensical subjects, showing Wonderland’s mockery of logic and order."
+    },
+    {
+        "question": "How does humor function in the conversation between the Mad Hatter and Alice?",
+        "answer": "It highlights the absurdity of Wonderland by twisting logic and language into riddles that have no real answers."
+    },
+    {
+        "question": "What is ironic about the trial of the Knave of Hearts?",
+        "answer": "The verdict seems predetermined, and the evidence presented is meaningless, mocking the idea of justice."
+    },
+    {
+        "question": "What moral does the Caterpillar indirectly teach Alice?",
+        "answer": "To control her emotions and learn to adapt to constant changes, rather than panic about them."
+    },
+    {
+        "question": "What does Alice mean when she says 'It’s no use going back to yesterday'?",
+        "answer": "She acknowledges that she has changed and grown from her experiences and cannot return to who she was before."
+    },
+    {
+        "question": "How does Lewis Carroll use logic puzzles to create humor in Wonderland?",
+        "answer": "He subverts normal reasoning and wordplay to expose the absurdity in everyday logic."
+    },
+    {
+        "question": "What effect does waking up from the dream have on Alice?",
+        "answer": "It brings her relief and understanding that Wonderland’s chaos was only a dream, though it leaves her thoughtful."
+    },
+    {
+        "question": "How does the repetition of tea time at the Mad Hatter’s party serve as a metaphor?",
+        "answer": "It symbolizes being stuck in meaningless routines and the distortion of time in Wonderland."
+    },
+    {
+        "question": "What contrast does Carroll create between Alice’s logic and Wonderland’s nonsense?",
+        "answer": "Alice represents rational thought, while Wonderland constantly undermines logic, showing the tension between order and absurdity."
+    },
+    {
+        "question": "What lesson might Carroll be suggesting about authority through the Queen of Hearts?",
+        "answer": "That authority based on fear and irrationality is fragile and easily defied once questioned."
     },
     {
         "question": "What does Carroll achieve by contrasting the politeness of the White Rabbit with the aggression of the Queen of Hearts?",
         "answer": "He uses the contrast to mock arbitrary social hierarchies, showing how civility and cruelty coexist under authority."
-    },
-    {
-        "question": "How do Alice’s frequent size changes mirror her emotional development throughout the story?",
-        "answer": "Her physical growth and shrinkage parallel her internal struggle for control and maturity, representing the instability of childhood and the desire for self-understanding."
     },
     {
         "question": "What is the symbolic meaning of the garden that Alice longs to enter at the beginning of the story?",
@@ -26,10 +66,6 @@
     {
         "question": "What role does time play as both a literal and symbolic element in the story?",
         "answer": "Time becomes a character and a metaphor—literally stopped at six o’clock for the Hatter, symbolizing stagnation and distorted perception of reality."
-    },
-    {
-        "question": "How does Alice’s conversation with the Cheshire Cat help her navigate the irrationality of Wonderland?",
-        "answer": "The Cat provides philosophical guidance, suggesting that direction doesn’t matter in a world without logic, helping Alice recognize that meaning depends on choice."
     },
     {
         "question": "Why might Carroll have chosen a child as the protagonist in a world of adult absurdities?",
@@ -72,10 +108,6 @@
         "answer": "It exposes authority as farce: the King and Queen’s legal system is incoherent, and the jury’s behavior mocks due process, echoing Carroll’s broader social critique."
     },
     {
-        "question": "How does Alice’s interaction with the Caterpillar differ from her interaction with the Queen of Hearts, and what does that reveal about her character growth?",
-        "answer": "The Caterpillar’s ambiguity frustrates her early on, but by the time she faces the Queen, Alice has learned patience and confidence, showing her emotional maturity."
-    },
-    {
         "question": "Why does Alice’s awakening at the end serve as more than just a return to reality?",
         "answer": "It symbolizes the reconciliation between imagination and reason—her dream experience helps her understand herself and the absurdity of adult logic."
     },
@@ -86,37 +118,5 @@
     {
         "question": "How does Carroll blur the line between sense and nonsense throughout the book?",
         "answer": "He constructs logic-based absurdities where rules are obeyed but outcomes defy reason, showing how sense and nonsense coexist."
-    },
-    {
-        "question": "What might Alice’s repeated changes in size say about identity in a changing world?",
-        "answer": "They represent the instability of self in times of transformation—her shifting body reflects the fluidity of identity during personal growth."
-    },
-    {
-        "question": "How does humor function as a defense mechanism for Alice in Wonderland?",
-        "answer": "By laughing at absurdity, Alice maintains composure and perspective, transforming confusion into empowerment."
-    },
-    {
-        "question": "How do Carroll’s wordplays and riddles comment on the limits of logic?",
-        "answer": "They show that language and reason, though tools of order, can collapse into absurdity when taken too literally."
-    },
-    {
-        "question": "How is Alice’s moral clarity contrasted with the moral ambiguity of Wonderland’s inhabitants?",
-        "answer": "Alice consistently questions unfairness and nonsense, while others accept it passively, emphasizing her integrity amidst chaos."
-    },
-    {
-        "question": "What is the thematic connection between the Mad Hatter’s tea party and the Queen’s croquet game?",
-        "answer": "Both scenes expose the futility of rules and structure in an irrational world—order becomes indistinguishable from chaos."
-    },
-    {
-        "question": "How does Carroll use dream logic to explore the boundaries of perception and reality?",
-        "answer": "By blending impossible events with logical dialogue, he challenges the reader’s sense of what is real, suggesting reality is shaped by thought."
-    },
-    {
-        "question": "How might the Queen of Hearts represent the dangers of unchecked imagination?",
-        "answer": "Her impulsive and violent behavior reflects imagination without reason—creative power turned destructive by lack of restraint."
-    },
-    {
-        "question": "How does Alice’s refusal to accept Wonderland’s madness serve as an allegory for critical thinking?",
-        "answer": "It demonstrates the importance of questioning authority and absurd norms, making Alice a symbol of reason confronting chaos."
     }
 ]
